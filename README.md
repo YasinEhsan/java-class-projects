@@ -106,7 +106,7 @@ Air	Queens	108	10.4.17	10.42	from	Kennedy	to	Laguardia	ticket	cost	190.0
 Air	Queens	110	10.4.17	11.33	from	Kennedy	to	Laguardia	ticket	cost	250.0
 Air	Queens	112	10.4.17	12.08	from	Kennedy	to	Laguardia	ticket	cost	280.0
 Air	Queens	114	10.4.17	13.55	from	Kennedy	to	Laguardia	ticket	cost	250.0
-Air	Queens	116	10.4.17	14.39	from	Kennedy	to	Laguardia	ticket	cost	190.
+Air	Queens	116	10.4.17	14.39	from	Kennedy	to	Laguardia	ticket	cost	190.0
  
 
 
@@ -137,4 +137,4 @@ Here are the tickets you have booked:
 Airline Air Queens refunds $210.0 to Donald Duck
 Do you want to book or cancel a flight? Answer Yes of No: No
 Thank you for booking with Air Queens Here is a list of your bookings:
-Donald Duck booked on Air Queens 112 10.4.17 12.08 from Kennedy to Laguardia cost 280.0
+Donald Duck booked on Air Queens 112 10.4.17 12.08 from Kennedy to Laguardia cost 280.
