@@ -106,7 +106,7 @@ Air	Queens	108	10.4.17	10.42	from	Kennedy	to	Laguardia	ticket	cost	190.0
 Air	Queens	110	10.4.17	11.33	from	Kennedy	to	Laguardia	ticket	cost	250.0
 Air	Queens	112	10.4.17	12.08	from	Kennedy	to	Laguardia	ticket	cost	280.0
 Air	Queens	114	10.4.17	13.55	from	Kennedy	to	Laguardia	ticket	cost	250.0
-Air	Queens	116	10.4.17	14.39	from	Kennedy	to	Laguardia	ticket	cost	190.0
+Air	Queens	116	10.4.17	14.39	from	Kennedy	to	Laguardia	ticket	cost	190.
  
 
 
