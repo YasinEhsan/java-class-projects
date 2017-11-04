@@ -14,7 +14,6 @@ public class Ticket {
 		setAirline(a);
 		setPassenger(pass);
 		setFlight(f);
-		counter = 0;
 	}
 	
 	//mutators
@@ -34,17 +33,21 @@ public class Ticket {
 	
 	//methods
 	public void cancel(){
-		
+		myPassenger.cancel(this);
+		myFlight.remove(this);
+		myAirline.cancel(this);
 	}
 	
-	 
 	//toString
 	public String toString(){
-		return "ticket Number: " + ticketNumber
-				+ "\nprice: " + price
-				+ "\nAirline: " + myAirline
-				+ "\nPassenger: " + myPassenger
-				+ "\nFlight: " + myFlight
-				+ "\nCounter: " + counter;
+		return  myAirline.getName() + " "
+				+ myFlight.getFlightNumber() + " " 
+				+ myFlight.getDate() + " " 
+				+ myFlight.getDeparturnTime() + " from "
+				+ myFlight.getOriginAirport() + " to "
+				+ myFlight.getDestination() + " ticket cost "
+				+ price +" \t Booked tickets: "
+				+ myFlight.getTickets().size() + " / "
+				+ myFlight.getSeats() + " seats";
 	}
 }
