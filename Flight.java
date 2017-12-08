@@ -105,9 +105,7 @@ public class Flight {
 				+ departureTime + " from "
 				+ originAirport + " to "
 				+ destination + " ticket cost "
-				+ getCost() +" \t Booked tickets: "
-				+ tickets.size() + " / "
-				+ seats + " seats";
+				+ getCost();
 	}
 
 }
