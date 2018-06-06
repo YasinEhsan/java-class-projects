@@ -1,12 +1,12 @@
 # Top Java Projects
 
 ## *Contents*
-* [Emirates Booking System](#Emirates-Booking-System)
-* [Tic-Tac-Toe](Tic-Tac-Toe])
-* [Cumulative-Data-Storage](Cumulative-Data-Storage)
+* [Emirates Booking System](#emirates-booking-system)
+* [Tic-Tac-Toe](#tic-tac-toe])
+* [Cumulative-Data-Storage](#cumulative-data-storage)
 
 ---
-## Emirates Booking System
+## Emirates-Booking-System
 Object Oriented Programming in Java project, The City University of New York.
 
 Simulates how the mega-airline Emirates creates flights, books passengers, and determines cost. Special features: Priceline-style user interaction and can model ticket prices based on demand.
