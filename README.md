@@ -2,8 +2,8 @@
 
 ## *Contents*
 * [Emirates Booking System](#emirates-booking-system)
-* [Tic-Tac-Toe](#tic-tac-toe])
-* [Cumulative-Data-Storage](#cumulative-data-storage)
+* [Tic Tac Toe](#tic-tac-toe])
+* [Cumulative Data Storage](#cumulative-data-storage)
 
 ---
 ## Emirates Booking System
